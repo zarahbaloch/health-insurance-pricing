@@ -1,4 +1,4 @@
-# Health Insurance Pricing- Project Summary
+# RiskRateML: Predictive Modeling for Insurance Charges
 
 This project predicts health insurance charges using the Medical Cost Personal Dataset
 (Kaggle: https://www.kaggle.com/datasets/mirichoi0218/insurance). The repo is structured as a full pipeline with modular code, unit tests, and a final modeling notebook.
